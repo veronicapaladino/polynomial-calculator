@@ -1,4 +1,4 @@
-# polynomial-calculator - Hecho por Veronica Paladino y Gabriel Perez
+# polynomial-calculator
 
 Se desea desarrollar un sistema de software que permita a estudiantes de bachillerato trabajar con polinomios con coeficientes enteros. La aplicación permitirá definir polinomios con coeficientes enteros por parte del estudiante y ejecutar de un conjunto de funcionalidades sobre ellos, destacándose principalmente las operaciones que permiten chequear raíces enteras y evaluar un polinomio en un valor entero dado, así como otras operaciones adicionales.
 
@@ -24,3 +24,6 @@ los siguientes:
 **recuperar**: recupera a memoria un polinomio previamente guardado en archivo
 
 **salir**: abandona la aplicación
+
+
+@Hecho por Veronica Paladino y Gabriel Perez
